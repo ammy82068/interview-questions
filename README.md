@@ -1,4 +1,4 @@
-# interview-questions-java
+# Interview-Questions-Java
 
 1. What are the two ways to iterate the elements of a collection?
 2. What is the difference between ArrayList and LinkedList classes in collection framework?
